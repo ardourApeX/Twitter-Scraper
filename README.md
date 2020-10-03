@@ -1,5 +1,4 @@
 # Twitter-Scraper
-
 This project uses Twitter API to get data from the twitter
 In order to use this , you'll have to create a twitter developer account,
 Get you access tokens and enter them in API-Data.py
